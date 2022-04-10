@@ -1,12 +1,12 @@
 {
-  "name": "petems-hiera_vault",
-  "version": "2.0.0",
+  "name": "kn1990-hiera_vault",
+  "version": "2.0.1",
   "author": "petems",
   "summary": "Hiera 5 backend to query data lookups from vault",
   "license": "Apache-2.0",
-  "source": "http://github.com/petems/hiera-vault",
-  "project_page": "https://github.com/petems/hiera-vault",
-  "issues_url": "https://github.com/petems/hiera-vault/issues",
+  "source": "https://github.com/kn1990/petems-hiera_vault",
+  "project_page": "https://github.com/kn1990/petems-hiera_vault",
+  "issues_url": "https://github.com/kn1990/petems-hiera_vault/issues",
   "dependencies": [
 
   ],
